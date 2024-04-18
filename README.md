@@ -5,7 +5,7 @@
 #### 1、android+sqlite
 #### 2、android+mysql
 #### 3、android+springboot+mysql
-#### 安卓原生java语法，sqlite数据库，点击头像进主页看更多作品 下方有联系方式
+#### 安卓原生java语法，点击头像进主页看更多作品 下方有联系方式
  <img src='https://img.alicdn.com/imgextra/i4/1658540494/O1CN01MDbvKD1FWIZkCDWbI_!!1658540494.jpg' alt='2024-01-21_193224.jpg' /></br> 
  <img src='https://img.alicdn.com/imgextra/i2/1658540494/O1CN01MCtJ9v1FWIZncMdkt_!!1658540494.jpg' alt='2024-01-21_193301.jpg' /></br> 
  <img src='https://img.alicdn.com/imgextra/i1/1658540494/O1CN01wyuGIC1FWIZsFdMSJ_!!1658540494.jpg' alt='2024-01-21_193621.jpg' /></br> 
